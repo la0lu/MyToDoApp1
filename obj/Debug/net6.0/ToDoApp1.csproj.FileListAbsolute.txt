@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ToDoApp1\bin\Debug\net6.0\ToDoApp1.exe
+C:\Users\hp\source\repos\ToDoApp1\bin\Debug\net6.0\ToDoApp1.deps.json
+C:\Users\hp\source\repos\ToDoApp1\bin\Debug\net6.0\ToDoApp1.runtimeconfig.json
+C:\Users\hp\source\repos\ToDoApp1\bin\Debug\net6.0\ToDoApp1.dll
+C:\Users\hp\source\repos\ToDoApp1\bin\Debug\net6.0\ToDoApp1.pdb
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.AssemblyInfo.cs
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.dll
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\refint\ToDoApp1.dll
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.pdb
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ToDoApp1.genruntimeconfig.cache
+C:\Users\hp\source\repos\ToDoApp1\obj\Debug\net6.0\ref\ToDoApp1.dll
